@@ -14,16 +14,17 @@ Extracted from an SQL database of electricity product purchases. The Excel file 
 - Jupyter Notebook
 - Excel (intermediate data storage)
 
-## 📂 Project Structure
+## 📁 Project Structure
+```text
 cohort-analysis-electricity/
-├── data/ # exported Excel file from SQL
-│ └── cohort_retention.xlsx
-├── notebooks/ # main analysis notebook
-│ └── cohort_analysis.ipynb
-├── outputs/ # final visualizations (heatmap)
-│ └── cohort_retention_heatmap.png
-├── .gitignore # ignore venv, pycache, etc.
-└── README.md # project documentation
+├── data/
+│   └── cohort_retention.xlsx
+├── notebooks/
+│   └── cohort_analysis.ipynb
+├── outputs/
+│   └── cohort_retention_heatmap.png
+├── README.md
+└── .gitignore
 
 ## 📈 Output
 
