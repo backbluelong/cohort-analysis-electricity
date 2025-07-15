@@ -15,14 +15,7 @@ Extracted from an SQL database of electricity product purchases. The Excel file 
 - Excel (intermediate data storage)
 
 ## 📂 Project Structure
-cohort-analysis-electricity/
-├── data/ ← contains the exported Excel file from SQL
-│ └── cohort_retention.xlsx
-├── notebooks/ ← contains the main analysis notebook
-│ └── cohort_analysis.ipynb
-├── outputs/ ← stores final visualizations (heatmap)
-│ └── cohort_retention_heatmap.png
-├── README.md ← project documentation
+
 
 ## 📈 Output
 
